@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leony Coelho</h1>
-<h3 align="center">A fullstack developer for Brazil, i've been working with python recently. I'm also a designer and illustator.</h3>
+<h3 align="left">A fullstack developer for Brazil, i've been working with python recently. I'm also a designer and illustator. Linux user and enthusiast.</h3>
 
 - 📫 How to reach me **leony.coelho@outlook.com**
 
